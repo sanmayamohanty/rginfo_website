@@ -1,12 +1,4 @@
-==================================================================================================
 
-DESCRIPTION:
-
-TRANSCEND is a clean and modern HTML template for agencies, studios or any creative profession. 
-It features a creative and clean design with an emphasis on typography, white space and attention 
-to detail. Transcend is fully responsive and retina-ready. Other features of the template are 
-animating stats section, stylish portfolio section, built-in Mailchimp integration and much more. 
-It is built with clean and organized code making it very easy to customize.
 
 ==================================================================================================
 
